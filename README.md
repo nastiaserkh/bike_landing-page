@@ -1,4 +1,1 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+A responsive landing page for an online store, designed to showcase products and provide a clean, user-friendly interface. Built using HTML and SCSS with BEM methodology for well-structured and maintainable styles.

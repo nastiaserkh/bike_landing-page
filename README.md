@@ -7,10 +7,14 @@ This project is a modern, responsive one-page landing website for a bicycle comp
 The page is built using semantic HTML, clean modular SCSS architecture, and BEM methodology.
 
 Technologies Used:
-HTML5
-SCSS (modular structure, variables, mixins)
-BEM methodology
-Git / GitHub Pages
+
+· HTML5
+
+· SCSS (modular structure, variables, mixins)
+
+· BEM methodology
+
+· Git / GitHub Pages
 
 To start the project locally, run:
 npm start

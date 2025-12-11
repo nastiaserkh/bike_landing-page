@@ -1,0 +1,22 @@
+@import './reset';
+@import './variables';
+@import './utils/mixins';
+
+// blocks
+@import './blocks/page';
+@import './blocks/main';
+@import './blocks/section-title';
+@import './blocks/button-hover';
+
+// components
+@import './components/top-bar';
+@import './components/nav';
+@import './components/menu';
+@import './components/info';
+@import './components/icon';
+@import './components/header';
+@import './components/footer';
+@import './components/details';
+@import './components/contacts';
+@import './components/card';
+@import './components/bikes';

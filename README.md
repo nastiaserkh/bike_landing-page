@@ -16,5 +16,12 @@ Technologies Used:
 
 · Git / GitHub Pages
 
-To start the project locally, run:
-npm start
+Getting started
+
+Install dependencies
+
+```npm install```
+
+Run the app
+
+```npm run start```

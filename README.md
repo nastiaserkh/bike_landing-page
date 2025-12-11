@@ -1,4 +1,20 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Bike Landing Page
+
+Demo: https://nastiaserkh.github.io/bike_landing-page/
+
+Description:
+This project is a modern, responsive one-page landing website for a bicycle company.
+The page is built using semantic HTML, clean modular SCSS architecture, and BEM methodology.
+
+Technologies Used:
+
+· HTML5
+
+· SCSS (modular structure, variables, mixins)
+
+· BEM methodology
+
+· Git / GitHub Pages
+
+To start the project locally, run:
+npm start
